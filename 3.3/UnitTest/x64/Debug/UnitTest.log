@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest.cpp
+E:\c_proj\3.3\3.3\Source.cpp(221): warning C4715: 'check': not all control paths return a value
+     Creating library E:\c_proj\3.3\x64\Debug\UnitTest.lib and object E:\c_proj\3.3\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> E:\c_proj\3.3\x64\Debug\UnitTest.dll
